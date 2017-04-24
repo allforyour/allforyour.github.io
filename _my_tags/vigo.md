@@ -1,0 +1,4 @@
+---
+slug: vigo
+name: vigo
+---
