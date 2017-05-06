@@ -1,0 +1,4 @@
+---
+slug: stanwyck
+name: stanwyck
+---
