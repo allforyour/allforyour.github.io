@@ -1,0 +1,4 @@
+---
+slug: vinilo
+name: vinilo
+---
