@@ -1,0 +1,4 @@
+---
+slug: uganda
+name: uganda
+---
