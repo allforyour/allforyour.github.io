@@ -1,0 +1,4 @@
+---
+slug: effie
+name: effie
+---
