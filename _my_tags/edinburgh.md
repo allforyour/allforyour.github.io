@@ -1,0 +1,4 @@
+---
+slug: edinburgh
+name: edinburgh
+---
